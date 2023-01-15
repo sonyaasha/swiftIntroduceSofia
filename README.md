@@ -3,7 +3,7 @@
 Prework for CodePath program IOS102. Implementation of Swift and UI to introduce information about myself.
 
 ## App Walk-Through
-![] (./assets/gif-app.gif)
+![] (https://github.com/sonyaasha/swiftIntroduceSofia/blob/main/assets/gif-app.gif)
 
 ## Required Features
 - [x] 1. App displays an image of a school's logo
