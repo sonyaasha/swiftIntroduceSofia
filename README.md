@@ -3,6 +3,7 @@
 Prework for CodePath program IOS102. Implementation of Swift and UI to introduce information about myself.
 
 ## App Walk-Through
+![] (./assets/gif-app.gif)
 
 ## Required Features
 - [x] 1. App displays an image of a school's logo
@@ -13,6 +14,6 @@ Prework for CodePath program IOS102. Implementation of Swift and UI to introduce
 - [x] 6. Introduce yourself button shows alert box with an introduciton and dismiss button
 
 ## Optional Features
-- [] 1. User can tap a button to change the color of the background view
+- [x] 1. User can tap a button to change the color of the background view
 - [x] 2. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
 - [x] 3. Not default stylistic changes: colored background, gray text label shadow
